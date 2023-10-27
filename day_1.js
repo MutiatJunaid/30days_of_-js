@@ -1,4 +1,9 @@
 // question1
+
+
+
+
+
       let randomNum = Math.random()
       console.log(randomNum)
       let numBtwZeroAndTen = randomNum*11
